@@ -1,6 +1,6 @@
 ![Vitale](https://github.com/user-attachments/assets/f1f6fe2d-57b5-4f25-b64c-80f0cc9ae123)
 
-nstituição fictícia chamada "Vitale ™", a proposta era compartilhar informações de saúde e bem estar do corpo humano.
+Instituição fictícia chamada "Vitale ™", a proposta era compartilhar informações de saúde e bem estar do corpo humano.
 
 ## Ferramentas utilizadas:
 
