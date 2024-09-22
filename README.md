@@ -16,4 +16,5 @@ Instituição fictícia chamada "Vitale ™", a proposta era compartilhar inform
 
 ### Linkedin: https://www.linkedin.com/in/gustavo-front-end/
 
+
 deploy: https://gustavo21ferreira.github.io/Vitale-Espro/
